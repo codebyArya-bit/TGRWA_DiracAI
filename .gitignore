@@ -10,3 +10,4 @@ __pycache__/
 media/
 media_cdn/
 static_cdn/
+build/
