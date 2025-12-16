@@ -1,0 +1,30 @@
+Fetching LIVE data...
+Fetching LOCAL data (from DB)...
+
+LIVE Count: 19
+LOCAL Count: 19
+
+--- COMPARISON (Order matters) ---
+IDX   | LIVE TITLE                               | LOCAL TITLE                              | STATUS
+----------------------------------------------------------------------------------------------------
+1     | Dasho Exams – Digital Assessment Cloud   | DashoApp Mobile App                      | MISMATCH
+2     | Train Simulator POC                      | No-Code Trading Platform                 | MISMATCH
+3     | Odia OCR - Voter ID Data Extraction Syst | DI Invoice                               | MISMATCH
+4     | NN Engineers Corporate Website           | Nijje Self-Learning App                  | MISMATCH
+5     | ISKCON Baranga‑Patia Digital Platform    | HelloToppers                             | MISMATCH
+6     | Rafinity AI Healthcare Agent             | DashoApp Web Platform                    | MISMATCH
+7     | Sushrusa E-Clinic - Rural Healthcare Rev | DSpace Court System                      | MISMATCH
+8     | Abriella Paintings                       | Llama3 Industry AI                       | MISMATCH
+9     | Health Institute IT                      | Assertive US Crypto                      | MISMATCH
+10    | EAtech Monitoring                        | EAtech Monitoring                        | MATCH
+11    | Assertive US Crypto                      | Health Institute IT                      | MISMATCH
+12    | Llama3 Industry AI                       | Abriella Paintings                       | MISMATCH
+13    | DSpace Court System                      | Sushrusa E-Clinic - Rural Healthcare Rev | MISMATCH
+14    | DashoApp Web Platform                    | Rafinity AI Healthcare Agent             | MISMATCH
+15    | HelloToppers                             | ISKCON Baranga‑Patia Digital Platform    | MISMATCH
+16    | Nijje Self-Learning App                  | NN Engineers Corporate Website           | MISMATCH
+17    | DI Invoice                               | Odia OCR - Voter ID Data Extraction Syst | MISMATCH
+18    | No-Code Trading Platform                 | Train Simulator POC                      | MISMATCH
+19    | DashoApp Mobile App                      | Dasho Exams – Digital Assessment Cloud   | MISMATCH
+----------------------------------------------------------------------------------------------------
+SYNC ISSUES FOUND.

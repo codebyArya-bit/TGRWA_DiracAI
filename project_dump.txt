@@ -1,0 +1,21 @@
+ID: 28 | Title: Dasho Exams – Digital Assessment Cloud | Category: <edtech> | Status: <completed>
+ID: 27 | Title: Train Simulator POC | Category: <govtech> | Status: <completed>
+ID: 26 | Title: Odia OCR - Voter ID Data Extraction System | Category: <govtech> | Status: <completed>
+ID: 25 | Title: NN Engineers Corporate Website | Category: <devops> | Status: <completed>
+ID: 24 | Title: ISKCON Baranga-Patia Digital Platform | Category: <enterprise> | Status: <completed>
+ID: 23 | Title: Rafinity AI Healthcare Agent | Category: <ai> | Status: <completed>
+ID: 22 | Title: Sushrusa E-Clinic - Rural Healthcare Revolution | Category: <enterprise> | Status: <completed>
+ID: 21 | Title: Abriella Paintings | Category: <ecommerce> | Status: <completed>
+ID: 20 | Title: Health Institute IT | Category: <enterprise> | Status: <completed>
+ID: 19 | Title: EAtech Monitoring | Category: <devops> | Status: <completed>
+ID: 18 | Title: Assertive US Crypto | Category: <blockchain> | Status: <completed>
+ID: 17 | Title: Llama3 Industry AI | Category: <ai> | Status: <completed>
+ID: 16 | Title: DSpace Court System | Category: <govtech> | Status: <completed>
+ID: 15 | Title: DI Invoice | Category: <saas> | Status: <completed>
+ID: 14 | Title: DashoApp Web Platform | Category: <edtech> | Status: <completed>
+ID: 13 | Title: HelloToppers | Category: <edtech> | Status: <completed>
+ID: 12 | Title: Nijje Self-Learning App | Category: <edtech> | Status: <completed>
+ID: 11 | Title: Invoice Builder | Category: <saas> | Status: <completed>
+ID: 10 | Title: No-Code Trading Platform | Category: <fintech> | Status: <completed>
+ID: 9 | Title: DashoApp Mobile App | Category: <edtech> | Status: <completed>
+ID: 6 | Title: Dasho Exams – Digital Assessment Cloud | Category: <edtech> | Status: <completed>

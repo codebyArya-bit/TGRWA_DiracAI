@@ -1,0 +1,30 @@
+Fetching LIVE data...
+Fetching LOCAL data (from DB)...
+
+LIVE Count: 19
+LOCAL Count: 19
+
+--- COMPARISON (Order matters) ---
+IDX   | LIVE TITLE                               | LOCAL TITLE                              | STATUS
+----------------------------------------------------------------------------------------------------
+1     | Dasho Exams – Digital Assessment Cloud   | Dasho Exams – Digital Assessment Cloud   | MATCH
+2     | Train Simulator POC                      | Train Simulator POC                      | MATCH
+3     | Odia OCR - Voter ID Data Extraction Syst | Odia OCR - Voter ID Data Extraction Syst | MATCH
+4     | NN Engineers Corporate Website           | NN Engineers Corporate Website           | MATCH
+5     | ISKCON Baranga‑Patia Digital Platform    | ISKCON Baranga‑Patia Digital Platform    | MATCH
+6     | Rafinity AI Healthcare Agent             | Rafinity AI Healthcare Agent             | MATCH
+7     | Sushrusa E-Clinic - Rural Healthcare Rev | Sushrusa E-Clinic - Rural Healthcare Rev | MATCH
+8     | Abriella Paintings                       | Abriella Paintings                       | MATCH
+9     | Health Institute IT                      | Health Institute IT                      | MATCH
+10    | EAtech Monitoring                        | EAtech Monitoring                        | MATCH
+11    | Assertive US Crypto                      | Assertive US Crypto                      | MATCH
+12    | Llama3 Industry AI                       | Llama3 Industry AI                       | MATCH
+13    | DSpace Court System                      | DSpace Court System                      | MATCH
+14    | DashoApp Web Platform                    | DashoApp Web Platform                    | MATCH
+15    | HelloToppers                             | HelloToppers                             | MATCH
+16    | Nijje Self-Learning App                  | Nijje Self-Learning App                  | MATCH
+17    | DI Invoice                               | DI Invoice                               | MATCH
+18    | No-Code Trading Platform                 | No-Code Trading Platform                 | MATCH
+19    | DashoApp Mobile App                      | DashoApp Mobile App                      | MATCH
+----------------------------------------------------------------------------------------------------
+PERFECT SYNC: Order and Titles match exactly!

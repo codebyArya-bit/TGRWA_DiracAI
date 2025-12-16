@@ -1,0 +1,21 @@
+ID    | Title                                    | Category        | Icon           
+-------------------------------------------------------------------------------------
+9     | DashoApp Mobile App                      | edtech          | Briefcase      
+10    | No-Code Trading Platform                 | fintech         | Briefcase      
+15    | DI Invoice                               | saas            | Briefcase      
+12    | Nijje Self-Learning App                  | edtech          | Briefcase      
+13    | HelloToppers                             | edtech          | Briefcase      
+14    | DashoApp Web Platform                    | edtech          | Briefcase      
+16    | DSpace Court System                      | govtech         | Briefcase      
+17    | Llama3 Industry AI                       | ai              | Briefcase      
+18    | Assertive US Crypto                      | blockchain      | Blocks         
+19    | EAtech Monitoring                        | devops          | Briefcase      
+20    | Health Institute IT                      | enterprise      | Globe          
+21    | Abriella Paintings                       | ecommerce       | Briefcase      
+22    | Sushrusa E-Clinic - Rural Healthcare Rev | enterprise      | Globe          
+23    | Rafinity AI Healthcare Agent             | ai              | Globe          
+29    | ISKCON Baranga‑Patia Digital Platform    | enterprise      | Blocks         
+25    | NN Engineers Corporate Website           | devops          | Code           
+26    | Odia OCR - Voter ID Data Extraction Syst | govtech         | Database       
+27    | Train Simulator POC                      | govtech         | Brain          
+6     | Dasho Exams – Digital Assessment Cloud   | edtech          | GraduationCap  

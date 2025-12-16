@@ -1,0 +1,12 @@
+
+======================================================================
+COMPLETE DATABASE AUDIT
+======================================================================
+Traceback (most recent call last):
+  File "C:\Users\Oppen\OneDrive\Desktop\DiracAI-Backend\TGRWA_DiracAI-main\audit_all_data.py", line 16, in <module>
+    print("\n\U0001f4ca TEAM MEMBERS")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Oppen\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f4ca' in position 2: character maps to <undefined>

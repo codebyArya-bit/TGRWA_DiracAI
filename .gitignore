@@ -1,0 +1,12 @@
+node_modules
+myenv/
+db.sqlite3
+__pycache__/
+*.pyc
+.env
+.venv_win/
+.venv_win_312/
+.venv_win_312_2/
+media/
+media_cdn/
+static_cdn/

@@ -1,0 +1,21 @@
+ID    | Title                                              | Short Description
+----------------------------------------------------------------------------------------------------
+6     | Dasho Exams – Digital Assessment Cloud             | A comprehensive mobile application for educational
+9     | DashoApp Mobile App                                | Educational institution management platform
+10    | No-Code Trading Platform                           | AI-powered trading strategy optimization
+12    | Nijje Self-Learning App                            | AI-powered personalized education
+13    | HelloToppers                                       | Peer-to-peer learning platform
+14    | DashoApp Web Platform                              | Educational institution management system
+15    | DI Invoice                                         | A free, production-ready SaaS invoicing platform t
+16    | DSpace Court System                                | Digital document management for courts
+17    | Llama3 Industry AI                                 | Fine-tuned LLM for specialized sectors
+18    | Assertive US Crypto                                | Custom blockchain & cryptocurrency
+19    | EAtech Monitoring                                  | Real-time server monitoring dashboard
+20    | Health Institute IT                                | Complete IT & digital marketing solution
+21    | Abriella Paintings                                 | Art gallery e-commerce platform
+22    | Sushrusa E-Clinic - Rural Healthcare Revolution    | Telemedicine bridges rural India with superspecial
+23    | Rafinity AI Healthcare Agent                       | Secure healthcare platform with patient/doctor por
+25    | NN Engineers Corporate Website                     | React-based corporate site showcasing engineering 
+26    | Odia OCR - Voter ID Data Extraction System         | Python-based OCR pipeline to extract voter details
+27    | Train Simulator POC                                | Indian Railway Simulator with interactive cockpit 
+29    | ISKCON Baranga‑Patia Digital Platform              | End‑to‑end Next.js platform for programs, communit

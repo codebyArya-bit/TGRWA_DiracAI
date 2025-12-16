@@ -1,0 +1,176 @@
+.galleryContainer {
+    width: 100%;
+    background-color: white;
+    min-height: 100vh;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.galleryCheck {
+    width: 80%;
+    max-width: 1200px;
+}
+
+.galleryHeader {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.galleryHeader h1 {
+    font-size: 3rem;
+    color: var(--themeColor);
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.underline {
+    width: 100px;
+    height: 4px;
+    background-color: var(--themeColor);
+    margin: 0 auto 20px auto;
+    border-radius: 2px;
+}
+
+.galleryHeader p {
+    color: #666;
+    font-size: 1.1rem;
+}
+
+.filterContainer {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
+
+.filterButton {
+    padding: 10px 25px;
+    border: 2px solid var(--themeColor);
+    border-radius: 50px;
+    background: transparent;
+    color: var(--themeColor);
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.filterButton:hover,
+.activeFilter {
+    background-color: var(--themeColor);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.galleryGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.galleryItem {
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: white;
+    height: 350px;
+    /* Fixed height for consistency */
+}
+
+.galleryItem:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+}
+
+.imageWrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.galleryImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.galleryItem:hover .galleryImage {
+    transform: scale(1.1);
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    padding: 20px;
+    text-align: center;
+}
+
+.galleryItem:hover .overlay {
+    opacity: 1;
+}
+
+.overlayContent {
+    color: white;
+    transform: translateY(20px);
+    transition: transform 0.3s ease;
+}
+
+.galleryItem:hover .overlayContent {
+    transform: translateY(0);
+}
+
+.overlayContent h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.overlayContent p {
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+    line-height: 1.5;
+    color: #ddd;
+}
+
+.categoryTag {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: var(--themeColor);
+    color: white;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    text-transform: capitalize;
+}
+
+.loader {
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--themeColor);
+    margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+    .galleryHeader h1 {
+        font-size: 2.5rem;
+    }
+
+    .galleryGrid {
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+}
